@@ -3,7 +3,7 @@
 **Best with:** Python - Machine Learning 
 **Familiar with:** React - C++/JUCE - Rust 
 
-> 💡 **TL;DR** – I'm a highly motivated ML and software engineer with a knack for building. Currently at Audialab, I’ve created tools for music producers and the fitness sector. I thrive on new challenges and enjoy writing and learning about niche topics.
+> 💡 **TL;DR** – I'm a highly motivated ML and software engineer with a creative edge. Currently at Audialab, I’ve created tools for music producers and the fitness sector. I thrive on new challenges and enjoy writing and learning about niche topics.
 
 ---
 
@@ -51,14 +51,15 @@ Some other projects include a [browser extension to reduce sibilance in speech](
 
 ### Some personal stuff
 
-- Built a [homeserver](https://blog.m19182.dev/writings/Building-my-Homelab) where I do ML workloads and host different projects.
 - I really enjoy making [music](https://music.m19182.dev/) (Ableton), as well as [videos](https://www.youtube.com/@mateo_19182) (Blender, TouchDesigner, Resolume). I also play the drums in a band with some friends.
 
 - Spent much of my university years producing, mixing and mastering music for local artists. Also DJ'd in clubs and festivals. Don't do this as much anymore, but it's still a part of my life.
 
-- I write, both in my [blog](https://blog.m19182.dev/writings/) and in a [music newsletter](https://no-cosign.m19182.dev/) I have with some friends.
+- I write, both in my [blog](https://blog.m19182.dev/writings/) and in a [music newsletter](https://no-cosign.m19182.dev/) I have with some friends. I also keep an obsidian vault with notes about everything that interests me.
 
 - I read a lot. Mostly substacks and blogs I follow (my [link archive](https://blog.m19182.dev/link-archive) has most of it), but also books, mostly science fiction.
+
+- Built a [homeserver](https://blog.m19182.dev/writings/Building-my-Homelab) where I do ML workloads and host different projects.
 
 - I have listed some other things I like on my [here](https://blog.m19182.dev/things-i-like) and also have a [now page](https://blog.m19182.dev/now) that keeps track of what I'm up to.
 
