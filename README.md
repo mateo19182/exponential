@@ -1,6 +1,7 @@
 # exponential
 
 **Best with:** Python - Machine Learning 
+
 **Familiar with:** React - C++/JUCE - Rust 
 
 > 💡 **TL;DR** – I'm a highly motivated ML and software engineer with a creative edge. Currently at Audialab, I’ve created tools for music producers and the fitness sector. I thrive on new challenges and enjoy writing and learning about niche topics.
