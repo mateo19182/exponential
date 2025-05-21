@@ -9,7 +9,7 @@
 
 ## About Mateo
 
-From A Coruña, Spain. I'm currently working as a ML Engineer at [Audialab](https://audialab.com), doing freelance work in the fitness sector and as a music producer. I'm passionate about learning niche subjects, you can read more about me in my [blog](https://blog.m19182.dev). 
+From A Coruña, Spain. I'm currently working as a ML Engineer at [Audialab](https://audialab.com), doing freelance work in the fitness sector and as a music producer. You can read more about me in my [blog](https://blog.m19182.dev). 
 
 ### Main Achievements
 
